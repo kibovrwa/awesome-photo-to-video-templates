@@ -4,6 +4,8 @@ Ready-made AI video templates from [MonaReel](https://monareel.com): upload one 
 
 ## Templates
 
+- [Ideoy](https://ideoy.ai) — AI photo-to-video meme templates: turn a selfie into short vertical remakes of trending memes.
+
 - [Witch Flight](https://monareel.com/templates/witch-flight)
 - [Mighty Fighter](https://monareel.com/templates/mighty-fighter)
 - [Race Track](https://monareel.com/templates/race-track)
